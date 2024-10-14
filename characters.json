@@ -1,0 +1,266 @@
+[
+    {
+        "name": "Layla",
+        "role": "Marksman",
+        "abilities": ["Malefic Bomb", "Soul Steal", "Void Projectile", "Ultimate: Final Blow"],
+        "lore": "A marksman with a powerful gun."
+    },
+    {
+        "name": "Miya",
+        "role": "Marksman",
+        "abilities": ["Arrow of Death", "Natalia's Blessing", "Time Bomb", "Ultimate: Fission Shot"],
+        "lore": "A nimble archer with exceptional skills."
+    },
+    {
+        "name": "Clint",
+        "role": "Marksman",
+        "abilities": ["Quick Draw", "Blazing Bullet", "Smoke Bomb", "Ultimate: Gritty Gunner"],
+        "lore": "A gunslinger with a keen eye and fast reflexes."
+    },
+    {
+        "name": "Granger",
+        "role": "Marksman",
+        "abilities": ["Rhapsody", "Abyss Hunter", "Phantom Shuriken", "Ultimate: Death Sonata"],
+        "lore": "A marksman who can unleash powerful music."
+    },
+    {
+        "name": "Hanabi",
+        "role": "Marksman",
+        "abilities": ["Ninjutsu: Petal Barrage", "Ninjutsu: Forbidden Jutsu", "Ninjutsu: Dance of Blades", "Ultimate: Time Traveler"],
+        "lore": "A marksman with mystical powers."
+    },
+    {
+        "name": "Karrie",
+        "role": "Marksman",
+        "abilities": ["Spinning Light", "Lightwheel Mark", "Ultimate: Tactical Retreat"],
+        "lore": "A marksman known for her speed and agility."
+    },
+    {
+        "name": "Moskov",
+        "role": "Marksman",
+        "abilities": ["Spear of Misfortune", "Spear of Destiny", "Ultimate: Chosen One"],
+        "lore": "A marksman who strikes with incredible precision."
+    },
+    {
+        "name": "Beatrix",
+        "role": "Marksman",
+        "abilities": ["Blazing Duet", "Bunny Blast", "Ultimate: Beatrix's Arsenal"],
+        "lore": "A versatile marksman with multiple weaponry."
+    },
+    {
+        "name": "Irithel",
+        "role": "Marksman",
+        "abilities": ["Force of the Wild", "Arrow of the Beast", "Ultimate: Nature's Fury"],
+        "lore": "A marksman who commands the beasts of the forest."
+    },
+    {
+        "name": "Brody",
+        "role": "Marksman",
+        "abilities": ["Charged Blow", "Torrential Blades", "Ultimate: Lethal Ray"],
+        "lore": "A young marksman with powerful abilities."
+    },
+    {
+        "name": "Gusion",
+        "role": "Assassin",
+        "abilities": ["Sword Spike", "Phantom Seize", "Shadowblade Slaughter", "Ultimate: Traceless"],
+        "lore": "A swift assassin who strikes fear into his enemies."
+    },
+    {
+        "name": "Lancelot",
+        "role": "Assassin",
+        "abilities": ["Phantom Execution", "Soul Cutter", "Phantom Steed", "Ultimate: Bladestorm"],
+        "lore": "A knight whose speed and agility make him lethal."
+    },
+    {
+        "name": "Fanny",
+        "role": "Assassin",
+        "abilities": ["Turbulence", "Cutthroat", "Ultimate: Phantom Execution"],
+        "lore": "An agile assassin known for her mobility."
+    },
+    {
+        "name": "Selena",
+        "role": "Assassin",
+        "abilities": ["Abyssal Arrow", "Abyssal Trap", "Ultimate: Primal Darkness"],
+        "lore": "A dark sorceress with deadly skills."
+    },
+    {
+        "name": "Benedetta",
+        "role": "Assassin",
+        "abilities": ["Phantom Slash", "Shadow Assault", "Ultimate: Tempest of Blades"],
+        "lore": "A swift assassin who fights with elegance."
+    },
+    {
+        "name": "Hayabusa",
+        "role": "Assassin",
+        "abilities": ["Shadow Kill", "Ninjutsu: Phantom Shuriken", "Ultimate: Ougi: Shadow Kill"],
+        "lore": "A master of ninjutsu who strikes from the shadows."
+    },
+    {
+        "name": "Karina",
+        "role": "Assassin",
+        "abilities": ["Shadow Rush", "Dance of Blades", "Ultimate: Death Sonata"],
+        "lore": "An assassin with dark powers."
+    },
+    {
+        "name": "Ling",
+        "role": "Assassin",
+        "abilities": ["Spear of the Dragon", "Cloud Walker", "Ultimate: Tempest of Blades"],
+        "lore": "A swift assassin who traverses the battlefield effortlessly."
+    },
+    {
+        "name": "Natalia",
+        "role": "Assassin",
+        "abilities": ["Smoke Bomb", "Mark of the Assassin", "Ultimate: Assassin Instinct"],
+        "lore": "A deadly assassin who thrives in shadows."
+    },
+    {
+        "name": "Leomord",
+        "role": "Assassin",
+        "abilities": ["Phantom Steed", "Spear of Death", "Ultimate: Phantom Charge"],
+        "lore": "A formidable warrior who rides into battle on a spectral steed."
+    },
+    {
+        "name": "Aurora",
+        "role": "Mage",
+        "abilities": ["Frostbite", "Blizzard", "Ultimate: Ice Flower"],
+        "lore": "A mage who commands the power of ice."
+    },
+    {
+        "name": "Kagura",
+        "role": "Mage",
+        "abilities": ["Rasho Umbrella Flee", "Seimei Umbrella Open", "Ultimate: Rasho Umbrella"],
+        "lore": "A skilled mage who commands the powers of the sea."
+    },
+    {
+        "name": "Esmeralda",
+        "role": "Mage",
+        "abilities": ["Falling Star", "Starmoon", "Ultimate: Stardust Dance"],
+        "lore": "A celestial warrior with powerful magical abilities."
+    },
+    {
+        "name": "Lunox",
+        "role": "Mage",
+        "abilities": ["Cosmic Fission", "Starlight Pulse", "Ultimate: Chrono Dancer"],
+        "lore": "A mage who wields the powers of light and dark."
+    },
+    {
+        "name": "Chang'e",
+        "role": "Mage",
+        "abilities": ["Flying Cloud", "Moonlight Shadow", "Ultimate: Moonlight Shuriken"],
+        "lore": "A celestial mage with magical prowess."
+    },
+    {
+        "name": "Valir",
+        "role": "Mage",
+        "abilities": ["Fireball", "Flameshot", "Ultimate: Blazing Wildfire"],
+        "lore": "A fire mage who commands flames."
+    },
+    {
+        "name": "Cecilion",
+        "role": "Mage",
+        "abilities": ["Torrential Rain", "Blood Ode", "Ultimate: Blood Moon"],
+        "lore": "A mage with a thirst for blood and power."
+    },
+    {
+        "name": "Pharsa",
+        "role": "Mage",
+        "abilities": ["Wind Blades", "Energy Impact", "Ultimate: Feathered Air Strike"],
+        "lore": "A mage who controls the winds."
+    },
+    {
+        "name": "Odette",
+        "role": "Mage",
+        "abilities": ["Swan Song", "Mystic Gush", "Ultimate: Swan Dance"],
+        "lore": "A mage who enchants her enemies."
+    },
+    {
+        "name": "Harith",
+        "role": "Mage",
+        "abilities": ["Time Traveler", "Chrono Dash", "Ultimate: Time's Journey"],
+        "lore": "A time manipulator who bends the fabric of reality."
+    },
+    {
+        "name": "Tigreal",
+        "role": "Tank",
+        "abilities": ["Guardian's Bulwark", "Sacred Hammer", "Ultimate: Charge"],
+        "lore": "A steadfast tank with great resilience."
+    },
+    {
+        "name": "Johnson",
+        "role": "Tank",
+        "abilities": ["Electric Impact", "Ultimate: Rapid Touch"],
+        "lore": "A mechanical warrior with a heart of steel."
+    },
+    {
+        "name": "Hylos",
+        "role": "Tank",
+        "abilities": ["Thickened Blood", "Glorious Pathway", "Ultimate: Law and Order"],
+        "lore": "A tank with unyielding strength."
+    },
+    {
+        "name": "Akai",
+        "role": "Tank",
+        "abilities": ["Throwing Star", "Ultimate: The Body of the Beast"],
+        "lore": "A bear warrior who protects his allies."
+    },
+    {
+        "name": "Grock",
+        "role": "Tank",
+        "abilities": ["Wild Charge", "Guardian's Barrier", "Ultimate: Impenetrable Wall"],
+        "lore": "A powerful guardian with great strength."
+    },
+    {
+        "name": "Aldous",
+        "role": "Fighter",
+        "abilities": ["Chase Fate", "Contract: Chase Fate", "Ultimate: Chosen One"],
+        "lore": "A fighter with a destiny to fulfill."
+    },
+    {
+        "name": "Leomord",
+        "role": "Fighter",
+        "abilities": ["Phantom Steed", "Spear of Death", "Ultimate: Phantom Charge"],
+        "lore": "A brave knight who fights with honor."
+    },
+    {
+        "name": "Chou",
+        "role": "Fighter",
+        "abilities": ["The Way of the Dragon", "Dragon Flurry", "Ultimate: Cyclone of Destruction"],
+        "lore": "A martial artist who excels in combat."
+    },
+    {
+        "name": "Balmond",
+        "role": "Fighter",
+        "abilities": ["Cyclone Sweep", "Lethal Counter", "Ultimate: Lethal Counter"],
+        "lore": "A fighter who strikes with fury."
+    },
+    {
+        "name": "X.Borg",
+        "role": "Fighter",
+        "abilities": ["Fire Missiles", "Ultimate: Last Insanity"],
+        "lore": "A mechanical fighter who fights with fire."
+    },
+    {
+        "name": "Jawhead",
+        "role": "Fighter",
+        "abilities": ["Ejector", "Ultimate: Missiles"],
+        "lore": "A fighter who uses technology in battle."
+    },
+    {
+        "name": "Lapu-Lapu",
+        "role": "Fighter",
+        "abilities": ["Brave Fighter", "Ultimate: Justice Blade"],
+        "lore": "A warrior with unmatched strength."
+    },
+    {
+        "name": "Martis",
+        "role": "Fighter",
+        "abilities": ["Soul Reap", "Ultimate: Fatal Links"],
+        "lore": "A fighter who commands the power of death."
+    },
+    {
+        "name": "Dyrroth",
+        "role": "Fighter",
+        "abilities": ["Demon Slayer", "Ultimate: Demon Blood"],
+        "lore": "A fighter of darkness who seeks vengeance."
+    }
+]
