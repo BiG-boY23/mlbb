@@ -1,0 +1,217 @@
+[
+    {
+        "name": "Basil",
+        "description": "A fragrant herb with a sweet, slightly peppery flavor.",
+        "uses": ["Culinary seasoning", "Antioxidant", "Digestive aid"]
+    },
+    {
+        "name": "Mint",
+        "description": "A refreshing herb known for its cool flavor and aroma.",
+        "uses": ["Teas", "Digestive relief", "Aromatherapy"]
+    },
+    {
+        "name": "Rosemary",
+        "description": "A woody, aromatic herb often used in cooking.",
+        "uses": ["Flavoring meats and vegetables", "Memory enhancement", "Antimicrobial properties"]
+    },
+    {
+        "name": "Thyme",
+        "description": "An earthy herb with a subtle minty flavor.",
+        "uses": ["Culinary seasoning", "Respiratory health", "Antioxidant"]
+    },
+    {
+        "name": "Sage",
+        "description": "A robust herb with a strong, slightly peppery flavor.",
+        "uses": ["Flavoring dishes", "Digestive health", "Anti-inflammatory"]
+    },
+    {
+        "name": "Oregano",
+        "description": "A savory herb commonly used in Mediterranean cuisine.",
+        "uses": ["Culinary seasoning", "Antimicrobial properties", "Respiratory health"]
+    },
+    {
+        "name": "Cilantro",
+        "description": "A fresh herb with a citrusy flavor.",
+        "uses": ["Culinary seasoning", "Digestive aid", "Detoxification"]
+    },
+    {
+        "name": "Chives",
+        "description": "A mild herb with a hint of onion flavor.",
+        "uses": ["Culinary garnish", "Rich in vitamins", "Digestive health"]
+    },
+    {
+        "name": "Lavender",
+        "description": "A fragrant herb known for its calming properties.",
+        "uses": ["Aromatherapy", "Culinary uses", "Skin care"]
+    },
+    {
+        "name": "Ginger",
+        "description": "A spicy root herb known for its distinct flavor and health benefits.",
+        "uses": ["Digestive aid", "Anti-nausea", "Anti-inflammatory"]
+    },
+    {
+        "name": "Turmeric",
+        "description": "A bright yellow root herb known for its anti-inflammatory properties.",
+        "uses": ["Culinary spice", "Anti-inflammatory", "Antioxidant"]
+    },
+    {
+        "name": "Chamomile",
+        "description": "A gentle herb known for its calming effects.",
+        "uses": ["Tea for relaxation", "Digestive aid", "Anti-anxiety"]
+    },
+    {
+        "name": "Echinacea",
+        "description": "A purple-flowered herb known for its immune-boosting properties.",
+        "uses": ["Cold and flu relief", "Immune support", "Anti-inflammatory"]
+    },
+    {
+        "name": "Peppermint",
+        "description": "A hybrid mint known for its refreshing taste and aroma.",
+        "uses": ["Digestive aid", "Headache relief", "Aromatherapy"]
+    },
+    {
+        "name": "Lemongrass",
+        "description": "A citrusy herb often used in Asian cooking.",
+        "uses": ["Culinary seasoning", "Digestive aid", "Anxiety relief"]
+    },
+    {
+        "name": "Dill",
+        "description": "An herb with feathery leaves and a tangy flavor.",
+        "uses": ["Flavoring pickles", "Digestive aid", "Rich in nutrients"]
+    },
+    {
+        "name": "Fennel",
+        "description": "A sweet, anise-flavored herb.",
+        "uses": ["Culinary uses", "Digestive support", "Anti-inflammatory"]
+    },
+    {
+        "name": "Tarragon",
+        "description": "A herb with a unique anise-like flavor.",
+        "uses": ["Culinary seasoning", "Digestive aid", "Rich in antioxidants"]
+    },
+    {
+        "name": "Marjoram",
+        "description": "A sweet herb with a mild flavor.",
+        "uses": ["Culinary seasoning", "Anti-inflammatory", "Digestive health"]
+    },
+    {
+        "name": "Borage",
+        "description": "An herb with star-shaped flowers and a cucumber-like flavor.",
+        "uses": ["Culinary garnish", "Skin care", "Anti-inflammatory"]
+    },
+    {
+        "name": "Nasturtium",
+        "description": "A vibrant herb with peppery leaves and flowers.",
+        "uses": ["Culinary garnish", "Rich in vitamins", "Antimicrobial properties"]
+    },
+    {
+        "name": "Curry Leaves",
+        "description": "A fragrant herb used in Indian cuisine.",
+        "uses": ["Culinary seasoning", "Digestive health", "Antioxidant"]
+    },
+    {
+        "name": "Cayenne Pepper",
+        "description": "A spicy herb known for its heat.",
+        "uses": ["Culinary spice", "Metabolism booster", "Pain relief"]
+    },
+    {
+        "name": "Lemon Balm",
+        "description": "A lemon-scented herb known for its calming effects.",
+        "uses": ["Tea for relaxation", "Digestive aid", "Anxiety relief"]
+    },
+    {
+        "name": "Horehound",
+        "description": "A bitter herb used in traditional medicine.",
+        "uses": ["Cough syrup", "Digestive aid", "Expectorant"]
+    },
+    {
+        "name": "Bitter Melon",
+        "description": "A bitter herb known for its medicinal properties.",
+        "uses": ["Blood sugar regulation", "Digestive health", "Weight loss"]
+    },
+    {
+        "name": "Ashwagandha",
+        "description": "An adaptogenic herb used in Ayurvedic medicine.",
+        "uses": ["Stress relief", "Energy boost", "Cognitive support"]
+    },
+    {
+        "name": "Holy Basil (Tulsi)",
+        "description": "A sacred herb in India known for its healing properties.",
+        "uses": ["Stress relief", "Anti-inflammatory", "Immune support"]
+    },
+    {
+        "name": "Gotu Kola",
+        "description": "A herb known for its skin and cognitive benefits.",
+        "uses": ["Wound healing", "Cognitive support", "Anxiety relief"]
+    },
+    {
+        "name": "Calendula",
+        "description": "An herb with bright orange flowers known for its skin benefits.",
+        "uses": ["Skin healing", "Anti-inflammatory", "Antimicrobial"]
+    },
+    {
+        "name": "St. John's Wort",
+        "description": "An herb known for its mood-lifting properties.",
+        "uses": ["Depression relief", "Anxiety reduction", "Anti-inflammatory"]
+    },
+    {
+        "name": "Valerian Root",
+        "description": "An herb known for its calming effects.",
+        "uses": ["Sleep aid", "Anxiety relief", "Relaxation"]
+    },
+    {
+        "name": "Milk Thistle",
+        "description": "A herb known for its liver-supporting properties.",
+        "uses": ["Liver detox", "Antioxidant", "Digestive health"]
+    },
+    {
+        "name": "Sarsaparilla",
+        "description": "A sweet herb used in traditional medicine.",
+        "uses": ["Detoxification", "Skin health", "Anti-inflammatory"]
+    },
+    {
+        "name": "Red Clover",
+        "description": "A herb known for its hormonal balance properties.",
+        "uses": ["Menopausal support", "Skin health", "Anti-inflammatory"]
+    },
+    {
+        "name": "Yarrow",
+        "description": "An herb known for its wound-healing properties.",
+        "uses": ["Wound healing", "Anti-inflammatory", "Digestive aid"]
+    },
+    {
+        "name": "Linden",
+        "description": "An herb known for its calming effects.",
+        "uses": ["Tea for relaxation", "Anti-anxiety", "Sleep aid"]
+    },
+    {
+        "name": "Ginseng",
+        "description": "An adaptogenic herb known for boosting energy.",
+        "uses": ["Energy booster", "Cognitive support", "Immune support"]
+    },
+    {
+        "name": "Elderberry",
+        "description": "A berry known for its immune-boosting properties.",
+        "uses": ["Cold and flu relief", "Antioxidant", "Anti-inflammatory"]
+    },
+    {
+        "name": "Moringa",
+        "description": "A nutrient-rich herb known as the 'miracle tree.'",
+        "uses": ["Nutrient supplementation", "Anti-inflammatory", "Antioxidant"]
+    },
+    {
+        "name": "Fenugreek",
+        "description": "A herb with a slightly bitter flavor and many health benefits.",
+        "uses": ["Digestive aid", "Blood sugar regulation", "Hormonal balance"]
+    },
+    {
+        "name": "Peppermint",
+        "description": "A hybrid mint known for its refreshing taste and aroma.",
+        "uses": ["Digestive aid", "Headache relief", "Aromatherapy"]
+    },
+    {
+        "name": "Spearmint",
+        "description": "A sweet mint variety often used in teas.",
+        "uses": ["Culinary uses", "Digestive aid", "Aromatherapy"]
+    }
+]
