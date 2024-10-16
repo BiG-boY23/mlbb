@@ -1,0 +1,470 @@
+[
+    {
+        "name": "LeBron James",
+        "team": "Los Angeles Lakers",
+        "position": "Forward",
+        "experience": 20,
+        "jersey_number": 6,
+        "hometown": "Akron, Ohio",
+        "college": "St. Vincent-St. Mary High School"
+    },
+    {
+        "name": "Stephen Curry",
+        "team": "Golden State Warriors",
+        "position": "Guard",
+        "experience": 15,
+        "jersey_number": 30,
+        "hometown": "Akron, Ohio",
+        "college": "Davidson College"
+    },
+    {
+        "name": "Kevin Durant",
+        "team": "Phoenix Suns",
+        "position": "Forward",
+        "experience": 15,
+        "jersey_number": 35,
+        "hometown": "Washington, D.C.",
+        "college": "Texas"
+    },
+    {
+        "name": "Giannis Antetokounmpo",
+        "team": "Milwaukee Bucks",
+        "position": "Forward",
+        "experience": 10,
+        "jersey_number": 34,
+        "hometown": "Athens, Greece",
+        "college": "N/A"
+    },
+    {
+        "name": "Kawhi Leonard",
+        "team": "Los Angeles Clippers",
+        "position": "Forward",
+        "experience": 12,
+        "jersey_number": 2,
+        "hometown": "Los Angeles, California",
+        "college": "San Diego State"
+    },
+    {
+        "name": "James Harden",
+        "team": "Philadelphia 76ers",
+        "position": "Guard",
+        "experience": 14,
+        "jersey_number": 1,
+        "hometown": "Los Angeles, California",
+        "college": "Arizona State"
+    },
+    {
+        "name": "Luka Dončić",
+        "team": "Dallas Mavericks",
+        "position": "Guard",
+        "experience": 5,
+        "jersey_number": 77,
+        "hometown": "Ljubljana, Slovenia",
+        "college": "N/A"
+    },
+    {
+        "name": "Nikola Jokić",
+        "team": "Denver Nuggets",
+        "position": "Center",
+        "experience": 8,
+        "jersey_number": 15,
+        "hometown": "Sombor, Serbia",
+        "college": "N/A"
+    },
+    {
+        "name": "Joel Embiid",
+        "team": "Philadelphia 76ers",
+        "position": "Center",
+        "experience": 8,
+        "jersey_number": 21,
+        "hometown": "Yaoundé, Cameroon",
+        "college": "Kansas"
+    },
+    {
+        "name": "Damian Lillard",
+        "team": "Portland Trail Blazers",
+        "position": "Guard",
+        "experience": 10,
+        "jersey_number": 0,
+        "hometown": "Oakland, California",
+        "college": "Weber State"
+    },
+    {
+        "name": "Jayson Tatum",
+        "team": "Boston Celtics",
+        "position": "Forward",
+        "experience": 6,
+        "jersey_number": 0,
+        "hometown": "St. Louis, Missouri",
+        "college": "Duke"
+    },
+    {
+        "name": "Zion Williamson",
+        "team": "New Orleans Pelicans",
+        "position": "Forward",
+        "experience": 4,
+        "jersey_number": 1,
+        "hometown": " Salisbury, North Carolina",
+        "college": "Duke"
+    },
+    {
+        "name": "Chris Paul",
+        "team": "Phoenix Suns",
+        "position": "Guard",
+        "experience": 18,
+        "jersey_number": 3,
+        "hometown": "Winston-Salem, North Carolina",
+        "college": "Wake Forest"
+    },
+    {
+        "name": "Anthony Davis",
+        "team": "Los Angeles Lakers",
+        "position": "Forward",
+        "experience": 10,
+        "jersey_number": 3,
+        "hometown": "Chicago, Illinois",
+        "college": "Kentucky"
+    },
+    {
+        "name": "Bradley Beal",
+        "team": "Washington Wizards",
+        "position": "Guard",
+        "experience": 10,
+        "jersey_number": 3,
+        "hometown": "St. Louis, Missouri",
+        "college": "Florida"
+    },
+    {
+        "name": "Kyrie Irving",
+        "team": "Dallas Mavericks",
+        "position": "Guard",
+        "experience": 12,
+        "jersey_number": 11,
+        "hometown": "Melbourne, Australia",
+        "college": "Duke"
+    },
+    {
+        "name": "Jimmy Butler",
+        "team": "Miami Heat",
+        "position": "Forward",
+        "experience": 10,
+        "jersey_number": 22,
+        "hometown": "Tomball, Texas",
+        "college": "Marquette"
+    },
+    {
+        "name": "Paul George",
+        "team": "Los Angeles Clippers",
+        "position": "Forward",
+        "experience": 13,
+        "jersey_number": 13,
+        "hometown": "Palmdale, California",
+        "college": "Fresno State"
+    },
+    {
+        "name": "Devin Booker",
+        "team": "Phoenix Suns",
+        "position": "Guard",
+        "experience": 6,
+        "jersey_number": 1,
+        "hometown": "Grand Rapids, Michigan",
+        "college": "Kentucky"
+    },
+    {
+        "name": "Karl-Anthony Towns",
+        "team": "Minnesota Timberwolves",
+        "position": "Center",
+        "experience": 8,
+        "jersey_number": 32,
+        "hometown": "Ewing, New Jersey",
+        "college": "Kentucky"
+    },
+    {
+        "name": "Russell Westbrook",
+        "team": "Los Angeles Lakers",
+        "position": "Guard",
+        "experience": 15,
+        "jersey_number": 0,
+        "hometown": "Long Beach, California",
+        "college": "UCLA"
+    },
+    {
+        "name": "Trae Young",
+        "team": "Atlanta Hawks",
+        "position": "Guard",
+        "experience": 5,
+        "jersey_number": 11,
+        "hometown": "Lubbock, Texas",
+        "college": "Oklahoma"
+    },
+    {
+        "name": "DeMar DeRozan",
+        "team": "Chicago Bulls",
+        "position": "Forward",
+        "experience": 14,
+        "jersey_number": 11,
+        "hometown": "Compton, California",
+        "college": "USC"
+    },
+    {
+        "name": "Donovan Mitchell",
+        "team": "Cleveland Cavaliers",
+        "position": "Guard",
+        "experience": 6,
+        "jersey_number": 45,
+        "hometown": "Elmsford, New York",
+        "college": "Louisville"
+    },
+    {
+        "name": "Victor Oladipo",
+        "team": "Miami Heat",
+        "position": "Guard",
+        "experience": 9,
+        "jersey_number": 4,
+        "hometown": "Kissimmee, Florida",
+        "college": "Indiana"
+    },
+    {
+        "name": "Rudy Gobert",
+        "team": "Minnesota Timberwolves",
+        "position": "Center",
+        "experience": 9,
+        "jersey_number": 27,
+        "hometown": "Saint-Quentin, France",
+        "college": "N/A"
+    },
+    {
+        "name": "John Wall",
+        "team": "Los Angeles Clippers",
+        "position": "Guard",
+        "experience": 12,
+        "jersey_number": 2,
+        "hometown": "Raleigh, North Carolina",
+        "college": "Kentucky"
+    },
+    {
+        "name": "Clint Capela",
+        "team": "Atlanta Hawks",
+        "position": "Center",
+        "experience": 7,
+        "jersey_number": 15,
+        "hometown": "Geneva, Switzerland",
+        "college": "N/A"
+    },
+    {
+        "name": "Bam Adebayo",
+        "team": "Miami Heat",
+        "position": "Center",
+        "experience": 5,
+        "jersey_number": 13,
+        "hometown": "Newark, New Jersey",
+        "college": "Kentucky"
+    },
+    {
+        "name": "Jaren Jackson Jr.",
+        "team": "Memphis Grizzlies",
+        "position": "Center",
+        "experience": 5,
+        "jersey_number": 13,
+        "hometown": "Plainfield, New Jersey",
+        "college": "Michigan State"
+    },
+    {
+        "name": "Michael Porter Jr.",
+        "team": "Denver Nuggets",
+        "position": "Forward",
+        "experience": 5,
+        "jersey_number": 1,
+        "hometown": "Columbia, Missouri",
+        "college": "Missouri"
+    },
+    {
+        "name": "Tyrese Haliburton",
+        "team": "Indiana Pacers",
+        "position": "Guard",
+        "experience": 3,
+        "jersey_number": 0,
+        "hometown": "Wisconsin",
+        "college": "Iowa State"
+    },
+    {
+        "name": "Jalen Green",
+        "team": "Houston Rockets",
+        "position": "Guard",
+        "experience": 2,
+        "jersey_number": 0,
+        "hometown": "Merced, California",
+        "college": "N/A"
+    },
+    {
+        "name": "Rui Hachimura",
+        "team": "Los Angeles Lakers",
+        "position": "Forward",
+        "experience": 4,
+        "jersey_number": 8,
+        "hometown": "Toyama, Japan",
+        "college": "Gonzaga"
+    },
+    {
+        "name": "Miles Bridges",
+        "team": "Charlotte Hornets",
+        "position": "Forward",
+        "experience": 4,
+        "jersey_number": 0,
+        "hometown": "Flint, Michigan",
+        "college": "Michigan State"
+    },
+    {
+        "name": "Darius Bazley",
+        "team": "Phoenix Suns",
+        "position": "Forward",
+        "experience": 4,
+        "jersey_number": 7,
+        "hometown": "Pittsburgh, Pennsylvania",
+        "college": "N/A"
+    },
+    {
+        "name": "Kevin Huerter",
+        "team": "Sacramento Kings",
+        "position": "Guard",
+        "experience": 5,
+        "jersey_number": 9,
+        "hometown": "Syracuse, New York",
+        "college": "Maryland"
+    },
+    {
+        "name": "Bobby Portis",
+        "team": "Milwaukee Bucks",
+        "position": "Forward",
+        "experience": 6,
+        "jersey_number": 9,
+        "hometown": "Little Rock, Arkansas",
+        "college": "Arkansas"
+    },
+    {
+        "name": "Derrick FIsher",
+        "team": "Lakers",
+        "position": "Guard",
+        "experience": 12,
+        "jersey_number": 2,
+        "hometown": "Little Rock, Arkansas",
+        "college": "Arkansas"
+    },
+    {
+        "name": "Gordon Hayward",
+        "team": "Charlotte Hornets",
+        "position": "Forward",
+        "experience": 13,
+        "jersey_number": 20,
+        "hometown": "Born, Indiana",
+        "college": "Butler"
+    },
+    {
+        "name": "Will Barton",
+        "team": "Washington Wizards",
+        "position": "Guard",
+        "experience": 9,
+        "jersey_number": 5,
+        "hometown": "Baltimore, Maryland",
+        "college": "Memphis"
+    },
+    {
+        "name": "Eric Bledsoe",
+        "team": "Portland Trail Blazers",
+        "position": "Guard",
+        "experience": 11,
+        "jersey_number": 5,
+        "hometown": "Benton Harbor, Michigan",
+        "college": "Kentucky"
+    },
+    {
+        "name": "Taj Gibson",
+        "team": "New York Knicks",
+        "position": "Forward",
+        "experience": 12,
+        "jersey_number": 67,
+        "hometown": "Brooklyn, New York",
+        "college": "USC"
+    },
+    {
+        "name": "P.J. Tucker",
+        "team": "Philadelphia 76ers",
+        "position": "Forward",
+        "experience": 14,
+        "jersey_number": 17,
+        "hometown": "Camden, New Jersey",
+        "college": "Texas"
+    },
+    {
+        "name": "Nicolas Batum",
+        "team": "Los Angeles Clippers",
+        "position": "Forward",
+        "experience": 16,
+        "jersey_number": 33,
+        "hometown": "Lisieux, France",
+        "college": "N/A"
+    },
+    {
+        "name": "Avery Bradley",
+        "team": "Los Angeles Lakers",
+        "position": "Guard",
+        "experience": 10,
+        "jersey_number": 11,
+        "hometown": "Long Beach, California",
+        "college": "Texas"
+    },
+    {
+        "name": "Dante DiVincenzo",
+        "team": "Golden State Warriors",
+        "position": "Guard",
+        "experience": 5,
+        "jersey_number": 0,
+        "hometown": "Crown Point, Indiana",
+        "college": "Villanova"
+    },
+    {
+        "name": "Wendell Carter Jr.",
+        "team": "Orlando Magic",
+        "position": "Center",
+        "experience": 5,
+        "jersey_number": 34,
+        "hometown": "Atlanta, Georgia",
+        "college": "Duke"
+    },
+    {
+        "name": "Kemba Walker",
+        "team": "Dallas Mavericks",
+        "position": "Guard",
+        "experience": 12,
+        "jersey_number": 8,
+        "hometown": "The Bronx, New York",
+        "college": "Connecticut"
+    },
+    {
+        "name": "Tyrese Maxey",
+        "team": "Philadelphia 76ers",
+        "position": "Guard",
+        "experience": 3,
+        "jersey_number": 0,
+        "hometown": "Dallas, Texas",
+        "college": "Kentucky"
+    },
+    {
+        "name": "Zach LaVine",
+        "team": "Chicago Bulls",
+        "position": "Guard",
+        "experience": 8,
+        "jersey_number": 8,
+        "hometown": "Renton, Washington",
+        "college": "UCLA"
+    },
+    {
+        "name": "Jonas Valanciunas",
+        "team": "New Orleans Pelicans",
+        "position": "Center",
+        "experience": 10,
+        "jersey_number": 17,
+        "hometown": "Utena, Lithuania",
+        "college": "N/A"
+    }
+]
